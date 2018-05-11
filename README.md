@@ -7,3 +7,4 @@ The project contains mutliple notebooks, with each notebooks explaing a specific
 S.No. | Topic | Contents | Databrics Notebook
 ------|-------|----------|-------------------
 1|Spark Session | This notebook contains the basic functions available with spark API like configurations, reading data and metadata functions. |[Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6907863442366616/1198152224612140/1911168149879216/latest.html)
+2|Dataframe Vs Dataset | This notebook compares the two structured APIs i.e Dataframes & Datasets and try explain the difference between these two programatically. |[Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6907863442366616/3138174879831521/1911168149879216/latest.html)
