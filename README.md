@@ -1,4 +1,4 @@
-# Spark-API-Guide
+# Spark-Practical Reference Guide
 
 This projects contains Databricks notebooks explaining about the various functions avaiable in Spark scala API in Spark 2.x. Tried to add little explanation before each API to understand the concept behind it and then actual code and how to use it with an explanation
 
