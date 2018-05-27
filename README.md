@@ -1,8 +1,7 @@
 # Spark-API-Guide
 
-This projects contains Databricks notebooks explaining about the various APIs avaiable in Spark scala API in Spark 2.x. Tried to add little explanation before each API to understand the concept behind it and then actual code and how to use it with an explanation
+This projects contains Databricks notebooks explaining about the various functions avaiable in Spark scala API in Spark 2.x. Tried to add little explanation before each API to understand the concept behind it and then actual code and how to use it with an explanation
 
-The project contains mutliple notebooks, with each notebooks explaing a specific concepts like Spark Session, Datasets, DataframeReader etc. Please go over the below table to look for specfic topics and then click on the link to open the notebook
 
 S.No. | Topic | Contents 
 ------|-------|----------
